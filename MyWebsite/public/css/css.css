@@ -1,0 +1,40 @@
+.menu{
+  color:black;
+}
+.alert{
+
+
+
+  /*background-color:#f79216;*/
+  /*background-color:#f79216;*/
+
+}
+.link{
+    display:inline;
+    color:white;
+}
+.body{
+    background-color: rgb(194, 184, 184);
+}
+.col{
+    padding: 0%;
+}
+.list-group{
+    margin:0;
+}
+.item{
+  display:inline;
+}
+.links{
+  color: #f79216;
+  font-size: 18px;
+}
+.logo{
+  color: #f79216;
+}
+a.first{
+  background-color: #f79216;
+}
+button.lin{
+  
+}
